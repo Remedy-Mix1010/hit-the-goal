@@ -1,0 +1,21 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm218-mynt-05-job598.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c338f7784c30bdfda5d9da6da75ae25d);
+}
+#canvas1
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:#8adea0;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family: fantasy;
+}
+
